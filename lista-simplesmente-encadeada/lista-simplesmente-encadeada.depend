@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566409498 source:c:\users\user\lista-simplesmente-encadeada\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+
